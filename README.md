@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **0xYasser/0xYasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,11 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<pre><code>
             __     __
-           /  \~~~/  \  
-     ,----(     ..    )    
+           /  \~~~/  \
+     ,----(     ..    )
     /      \__     __/
    /|         (\  |(
-  ^ \   /___\  /\ |      -Boo!
+  ^ \   /___\  /\ |   <b><i>-Boo!</i><b/>
      |__|   |__|-"    
+
+</code></pre>
